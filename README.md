@@ -49,6 +49,3 @@ My solutions to IUST's Electric Circuits Laboratory, Fall 2021, Dr. Zahirpoor.
 ### Session 11
 - Description: Implementation of session homework or class activities for the eleventh session.
 - Code: [Link to Session 11](https://github.com/lelnazrezaeel/Electric-Circuits-Lab-IUST/tree/main/Session11)
-
-## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/lab-items.png" alt="lab-items"/> Report Structure
-PDF file outlining the structure and guidelines for lab reports.
